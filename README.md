@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trong Le
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning at FPT University
+- 🌱 I graduated from FPT University
 - 📫 You can contact me directly at the address below:
   <p>
     <a href="tel:+84337336138">Phone: +84 337 336 138</a>
